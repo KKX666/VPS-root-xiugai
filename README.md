@@ -27,7 +27,10 @@
 
 ![image](https://user-images.githubusercontent.com/94978556/143866566-10ab5eb3-366f-4476-b044-726134e0e76b.png)
 
-第六步：按`O`进入编辑模式修改一下两项改为`yes`
+第六步：按`O`进入编辑模式修改一下两项改为`yes`如果前面有#请删除
+
+![image](https://user-images.githubusercontent.com/94978556/144199406-81567acd-480a-423e-b658-c12c178af116.png)
+
 
 ![image](https://user-images.githubusercontent.com/94978556/143866877-ef65c67c-8a42-4a9c-8ec7-5233d8a8716a.png)
 
